@@ -1,6 +1,6 @@
 # JavaScriptEcma2020-2021
-Novas funcionalidades JavaScript
-![Imagem JavaScript]("https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif"); <br/>
+## Novas funcionalidades JavaScript
+![Imagem JavaScript](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif); <br/>
 O ECMAScript2020 , em sua próxima versão da especificação oficial subjacente ao JavaScript , deverá ser formalmente adotado em junho, sujeito à aprovação da ECMA International e do comitê técnico da ECMA que supervisiona a especificação. 
 O ECMAScript 2020 apresenta vários recursos, desde um novo  import() recurso para carregar módulos até um novo BigInt tipo para trabalhar com números inteiros de precisão arbitrários. 
 
